@@ -1,0 +1,6 @@
+server:
+  port: 8310
+spring:
+  application:
+    name: kafka-consumer
+
